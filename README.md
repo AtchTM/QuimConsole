@@ -1,4 +1,4 @@
-# QuimConsole
+# Quim Console
 Official console from Quim Network · dsc.gg/QuimNET
 
 ## Features:
