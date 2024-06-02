@@ -1,6 +1,10 @@
 # Quim Console
 #### Advanced console by Quim Network · dsc.gg/QuimNET
 
+## Important information:
+##### - Quim Interpreter · v1.0.0
+##### - Quim Console · v1.0.0
+
 ## Features:
 ##### - Run default system commands
 ##### - Custom advanced commands
