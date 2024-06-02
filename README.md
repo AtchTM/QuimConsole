@@ -2,6 +2,8 @@
 #### Advanced console by Quim Network · dsc.gg/QuimNET
 
 ## Important information:
+##### - Recomended python · v3.12
+
 ##### - Quim Interpreter · v1.0.0
 ##### - Quim Console · v1.0.0
 
