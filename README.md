@@ -20,4 +20,4 @@
 ##### Python · Install python it running the unix.sh and run the AutoInstall.py
 
 ##### Linux (Python)
-###### Python · Install python it running the unix.sh and run the AutoInstall.py
+##### Python · Install python it running the unix.sh and run the AutoInstall.py
