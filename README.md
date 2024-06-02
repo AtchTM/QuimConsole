@@ -1,5 +1,5 @@
 # Quim Console
-#### Official console from Quim Network · dsc.gg/QuimNET
+#### Advanced console by Quim Network · dsc.gg/QuimNET
 
 ## Features:
 ##### - Run default system commands
